@@ -1,0 +1,7 @@
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\bin\Debug\actions1.exe.config
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\bin\Debug\actions1.exe
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\bin\Debug\actions1.pdb
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\obj\Debug\actions1.csproj.AssemblyReference.cache
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\obj\Debug\actions1.csproj.CoreCompileInputs.cache
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\obj\Debug\actions1.exe
+C:\Users\Sauraav\Documents\GitHub\testingActions\actions1\actions1\obj\Debug\actions1.pdb

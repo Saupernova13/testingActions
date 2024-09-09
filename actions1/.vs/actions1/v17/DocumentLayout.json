@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sauraav\\source\\repos\\actions1\\",
+  "WorkspaceRootPath": "C:\\Users\\Sauraav\\Documents\\GitHub\\testingActions\\actions1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E51DE-1E05-4720-ACB5-1A14410F4349}|actions1\\actions1.csproj|c:\\users\\sauraav\\source\\repos\\actions1\\actions1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C9E51DE-1E05-4720-ACB5-1A14410F4349}|actions1\\actions1.csproj|c:\\users\\sauraav\\documents\\github\\testingactions\\actions1\\actions1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E51DE-1E05-4720-ACB5-1A14410F4349}|actions1\\actions1.csproj|solutionrelative:actions1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sauraav\\source\\repos\\actions1\\actions1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sauraav\\Documents\\GitHub\\testingActions\\actions1\\actions1\\Program.cs",
               "RelativeDocumentMoniker": "actions1\\Program.cs",
-              "ToolTip": "C:\\Users\\Sauraav\\source\\repos\\actions1\\actions1\\Program.cs",
-              "RelativeToolTip": "actions1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ToolTip": "C:\\Users\\Sauraav\\Documents\\GitHub\\testingActions\\actions1\\actions1\\Program.cs*",
+              "RelativeToolTip": "actions1\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T12:12:40.07Z",
               "EditorCaption": ""
